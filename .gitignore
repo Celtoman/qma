@@ -137,7 +137,6 @@ cython_debug/
 
 # Project specific
 *.xlsx
-!tarify-dom.ru_2555622a663106096120a3a0.xlsx
 ~$*.xlsx
 urls.txt
 qma.log
